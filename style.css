@@ -203,10 +203,35 @@ body {
 }
 .latest-deal-text > input {
   padding: 12px 20px;
-  width: 500px;
+  width: 300px;
   border: none;
   border-radius: 8px;
   margin-right: 10px;
+}
+/* customer feedback section  */
+.customer-feedback-section {
+  margin: 100px 100px;
+  text-align: center;
+}
+.feedback-container {
+  display: flex;
+  height: 70vh;
+  align-items: center;
+  justify-content: space-around;
+}
+.feedback {
+  width: 27%;
+  box-shadow: 2px 8px 10px rgba(219, 217, 217, 0.791);
+  padding: 20px;
+}
+.feedback-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+.feedback-description {
+  margin: 10px 0;
 }
 /* footer section  */
 .footer {
