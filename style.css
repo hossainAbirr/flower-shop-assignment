@@ -210,12 +210,12 @@ body {
 }
 /* customer feedback section  */
 .customer-feedback-section {
-  margin: 100px 100px;
+  margin: 70px 100px;
   text-align: center;
 }
 .feedback-container {
   display: flex;
-  height: 70vh;
+  height: 60vh;
   align-items: center;
   justify-content: space-around;
 }
